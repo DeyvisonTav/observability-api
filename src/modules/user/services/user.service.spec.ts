@@ -20,8 +20,8 @@ describe('UserService', () => {
     name: 'João Silva',
     email: 'joao@exemplo.com',
     password: 'hashedPassword123',
-    createdAt: new Date('2024-01-01'),
-    updatedAt: new Date('2024-01-01'),
+    createdAt: new Date('2025-08-01'),
+    updatedAt: new Date('2025-08-01'),
   };
 
   const mockCreateUserDto: CreateUserDto = {
